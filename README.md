@@ -1,13 +1,13 @@
 # 🎶 Music Genre Classification
 
 This project provides a complete **end-to-end solution for music genre classification**, combining deep learning with an intuitive web interface.  
-A Convolutional Neural Network (CNN) was trained on the **GTZAN dataset** and deployed as a **Streamlit web application**, allowing users to upload audio files and receive real-time predictions.
+A Convolutional Neural Network (CNN) was trained on the **GTZAN Music Genre dataset** and deployed as a **Streamlit web application**, allowing users to upload audio files and receive real-time predictions.
 
 ---
 
 ## 📌 Project Overview
 
-- **Dataset:** [GTZAN Music Genre Dataset](http://marsyas.info/downloads/datasets.html)  
+- **Dataset:** [GTZAN Music Genre Dataset](https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification/data)  
   Contains **1000+ audio tracks** across 10 genres (classical, jazz, hip hop, rock, etc.).  
 - **Workflow:** Data preprocessing → CNN model training → Evaluation → Web deployment.  
 - **Web App:** User-friendly interface for uploading `.mp3` files and classifying genres instantly.  

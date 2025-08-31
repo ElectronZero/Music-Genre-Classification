@@ -35,4 +35,8 @@ A Convolutional Neural Network (CNN) was trained on the **GTZAN dataset** and de
 ---
 
 ## 📂 Project Structure
+├── Train_Music_Genre_Classifier.ipynb # Jupyter Notebook: training pipeline
+├── Test_Music_Genre.ipynb # Jupyter Notebook: testing on new audio
+├── Music_Genre_App.py # Streamlit web application
+└── README.md # Project documentation
 
